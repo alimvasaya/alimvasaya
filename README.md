@@ -25,7 +25,6 @@ Feel free to reach out for collaborations, technical discussions, or mentorship 
     
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alimvasaya&theme=dark&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=alimvasaya&theme=dark&hide_border=true" />
   </td>
 
   <td width="50%" align="center">
@@ -46,7 +45,6 @@ Feel free to reach out for collaborations, technical discussions, or mentorship 
 Social Networking Site – Full-stack project using React, Spring Boot, Docker, and AWS.
 ETL Management System – Improved processing time by 30% using optimized algorithms.
 Lingo Link – A VR language learning app powered by ChatGPT.
-📊 Profile Views & Visitors Count
-<p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=alimvasaya&label=Profile%20Views&color=12&icon=5&pretty=true" /> </a> </p>
+
 📫 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/alimvasaya"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:alimvasaya1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
