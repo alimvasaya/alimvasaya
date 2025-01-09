@@ -37,7 +37,11 @@ Feel free to reach out for collaborations, technical discussions, or mentorship 
   </table>
   <!--- stats (end) -->
 🏆 GitHub Trophies
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=alimvasaya&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true"> <img src="https://github-profile-trophy.vercel.app/?username=alimvasaya&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="Trophies"> </a> </p>
+<p align="center"> 
+  <a href="https://github-profile-trophy.vercel.app/?username=alimvasaya&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=alimvasaya&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="Trophies"> 
+  </a> 
+</p>
 🚀 Current Projects & Contributions
 Social Networking Site – Full-stack project using React, Spring Boot, Docker, and AWS.
 ETL Management System – Improved processing time by 30% using optimized algorithms.
