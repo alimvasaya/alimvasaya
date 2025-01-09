@@ -1,7 +1,7 @@
 ✨ Welcome to My GitHub! 👋
 
 
-<div align="center"> <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </div>
+<div align="center"> <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> </div>
 I’m Alim Vasaya, a passionate Full Stack Developer and problem solver with expertise in building scalable, user-centric solutions. I have a strong foundation in backend and frontend development using technologies like Java, Spring Boot, React, and Docker.
 
 💻 I’m currently working on:
