@@ -14,7 +14,7 @@ Exploring AWS services, microservices architecture, and enhancing my DevOps skil
 Feel free to reach out for collaborations, technical discussions, or mentorship opportunities.
 
 🔧 Technologies & Tools
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,cpp,docker,kubernetes,github,vscode,linux,mongodb,postgresql" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,sql,mongodb,postgresql,nosql,js,ts,html,css,nextjs,react,nodejs,angular,spring,dotnet,docker,aws,git,vscode,postman,unity,rabbitmq,jenkins" /> </a> </p>
 📈 GitHub Stats & Streak
 <table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=alimvasaya&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimvasaya&theme=dark&hide_border=true" alt="GitHub Streak"> </td> </tr> </table>
 🏆 GitHub Trophies
